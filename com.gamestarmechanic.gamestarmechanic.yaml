@@ -32,8 +32,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/endlessm/gamestar-mechanic-linux.git
-        commit: 60c51a8d31522f022919d69644c84a3d63f61661
-        tag: v1.3.1
+        commit: 7c1b5877965bc9d1931d2e125150c3c9d63ec791
+        tag: v1.3.2
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
