@@ -66,8 +66,8 @@ modules:
       - type: extra-data
         filename: flash_player_ppapi_linux.x86_64.tar.gz
         url: https://web.archive.org/web/20210116212416if_/https://fpdownload.adobe.com/get/flashplayer/pdc/32.0.0.465/flash_player_ppapi_linux.x86_64.tar.gz
-        sha256: 184cfda9476c09798764f78744ace801737869dd30da8a81480b471a10f37c22
-        size: 11650
+        sha256: 99fcc780897be55bac7d11c0204ba7a3d5e7dc1f1aed75d5e7b5ad28c0b2ff5d
+        size: 9763881
     build-commands:
       - install apply_extra -Dt ${FLATPAK_DEST}/bin
   - name: wrapper
