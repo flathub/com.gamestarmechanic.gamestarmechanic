@@ -6,8 +6,6 @@ base: org.electronjs.Electron2.BaseApp
 base-version: '25.08'
 command: gamestarmechanic-wrapper
 separate-locales: false
-tags:
-  - proprietary
 
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.node20
